@@ -1,4 +1,4 @@
-# 🚀 Full-Stack Developer | MERN & PHP Specialist | Tech Learner | Web Enthusiast
+# 🚀 Full-Stack Developer | MERN & PHP Specialist | Web Enthusiast
 
 Hi, I'm **Hafiz Anas** — a passionate **Frontend Developer** from **Pakistan 🇵🇰**, with a creative eye and a problem-solving mindset.  
 My journey blends design, clean code, and continuous learning — all built on dedication and self-driven growth.
@@ -28,8 +28,8 @@ My journey blends design, clean code, and continuous learning — all built on d
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=anasshazad324&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anasshazad324&theme=tokyonight&hide_border=true" width="48%">
 </p>
 
 ---
@@ -37,7 +37,7 @@ My journey blends design, clean code, and continuous learning — all built on d
 ## 🔠 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasshazad324&layout=compact&theme=tokyonight&hide_border=true" width="50%">
 </p>
 
 ---
@@ -61,11 +61,7 @@ My journey blends design, clean code, and continuous learning — all built on d
 
 ---
 
-## 🏆 Achievements & Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&margin-w=10" width="90%"/>
-</p>
 
 ---
 
