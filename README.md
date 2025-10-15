@@ -20,7 +20,7 @@ My journey blends design, clean code, and continuous learning — all built on d
 ## 💡 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,bootstrap,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,bootstrap,github" target = "_blank" />
 </p>
 
 ---
